@@ -53,7 +53,7 @@ public class CustomCrypticClueAreas {
         m.put(new WorldPoint(3307, 9505, 0),  new DigArea(new WorldPoint(3306, 9504, 0), new WorldPoint(3308, 9505, 0))); // Entomologist, Kalphite Cave - Elite
         m.put(new WorldPoint(1639, 3673, 0),  new DigArea(new WorldPoint(1630, 3665, 0), new WorldPoint(1643, 3681, 0))); // Center Kourend statue - Easy
         m.put(new WorldPoint(3547, 3183, 0),  new DigArea(new WorldPoint(3535, 3175, 0), new WorldPoint(3572, 3189, 0))); // Fishing spot southeast of Burgh de Rott - Hard
-        m.put(new WorldPoint(3081, 3421, 0),  new DigArea(new WorldPoint(3079, 3419, 0), new WorldPoint(3083, 3423, 0))); // Stronghold of Security entrance - Hard
+        m.put(new WorldPoint(3081, 3421, 0),  new DigArea(new WorldPoint(3081, 3421, 0), 5)); // Stronghold of Security entrance - Hard
         m.put(new WorldPoint(1756, 4940, 0),  new DigArea(new WorldPoint(1753, 4936, 0), new WorldPoint(1759, 4942, 0))); // Terrorbird display in Varrock Museum - Master
         m.put(new WorldPoint(2523, 3739, 0),  new DigArea(new WorldPoint(2523, 3739, 0), new WorldPoint(2524, 3740, 0))); // Waterbirth Island dungeon - Elite
         m.put(new WorldPoint(2458, 3504, 0),  new DigArea(new WorldPoint(2459, 3505, 0), 3)); // Giant mushrooms near Grand Tree - Easy
