@@ -19,7 +19,7 @@ public class EliteEmoteClueAreas {
             .put("Yawn at the top of Trollheim. Equip a lava battlestaff, black dragonhide vambraces and a mind shield.",
                     new DigArea(new WorldPoint(2886, 3674, 0), new WorldPoint(2895, 3682, 0)))
             .put("Dance on the fishing platform. Equip barrows gloves, an amulet of glory and a dragon med helm.",
-                    new DigArea(new WorldPoint(2762, 3273, 0), new WorldPoint(2794, 3291, 0)))
+                    new DigArea(new WorldPoint(2784, 3275, 0), 5)) // full area coords: 2762, 3273 and 2794, 3291
             .put("Laugh by the fountain of heroes. Equip splitbark legs, dragon boots and a Rune longsword.",
                     new DigArea(new WorldPoint(2914, 9891, 0), new WorldPoint(2921, 9896, 0)))
             .put("Panic at the area flowers meet snow. Equip Blue D'hide vambraces, a dragon spear and a rune plateskirt.",
